@@ -7,27 +7,27 @@
 			"url": "",
 			"items": [{
 					"title": "Guía para Grupos de Restauración",
-					"url": "/es-es/restoration-organizations",
+					"url": "/es/restoration-organizations",
 					"svg": ""
 				},
 				{
 					"title": "TreeMapper",
-					"url": "/es-es/treemapper",
+					"url": "/es/treemapper",
 					"svg": ""
 				},
 				{
 					"title": "Estándares para Restauración",
-					"url": "/es-es/standards",
+					"url": "/es/standards",
 					"svg": ""
 				},
 				{
 					"title": "Asesoría en Restauración",
-					"url": "/es-es/research",
+					"url": "/es/research",
 					"svg": ""
 				},
 				{
 					"title": "Nuestros Principios",
-					"url": "/es-es/principles",
+					"url": "/es/principles",
 					"svg": ""
 				}
 			]
@@ -51,37 +51,37 @@
 				},
 				{
 					"title": "Ver Mi Árbol",
-					"url": "/es-es/status",
+					"url": "/es/status",
 					"svg": ""
 				},
 				{
 					"title": "Iniciar Campaña",
-					"url": "/es-es/start-my-campaign",
+					"url": "/es/start-my-campaign",
 					"svg": ""
 				},
 				{
 					"title": "Incorporar el Widget",
-					"url": "/es-es/widgets",
+					"url": "/es/widgets",
 					"svg": ""
 				}
 			]
 		},
 		{
-			"title": "Companies & Institutions",
+			"title": "Empresas & Instituciones",
 			"url": "",
 			"items": [{
-					"title": "Partner Dashboard",
+					"title": "Panel de Socios",
 					"url": "",
 					"svg": ""
 				},
 				{
 					"title": "PlanetCash",
-					"url": "/es-es/planetcash",
+					"url": "/es/planetcash",
 					"svg": ""
 				},
 				{
 					"title": "MyForest",
-					"url": "/es-es/myforest",
+					"url": "/es/myforest",
 					"svg": ""
 				}
 			]
