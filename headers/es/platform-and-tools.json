@@ -1,67 +1,67 @@
 {
-	"title": "Fund, manage and monitor restoration",
+	"title": "Financiar, gestionar y supervisar restauración",
 	"url": "",
 	"img": "/wp-content/uploads/2022/03/Plant-for-the-Planet-Webapp.png",
 	"items": [{
-			"title": "Restoration Orgs",
+			"title": "Grupos de Restauración",
 			"url": "",
 			"items": [{
-					"title": "Guide for Restoration Orgs",
-					"url": "/restoration-organizations",
+					"title": "Guía para Grupos de Restauración",
+					"url": "/es-es/restoration-organizations",
 					"svg": ""
 				},
 				{
 					"title": "TreeMapper",
-					"url": "/treemapper",
+					"url": "/es-es/treemapper",
 					"svg": ""
 				},
 				{
-					"title": "Restoration Standards",
-					"url": "/standards",
+					"title": "Estándares para Restauración",
+					"url": "/es-es/standards",
 					"svg": ""
 				},
 				{
-					"title": "Restoration Advice",
-					"url": "/research",
+					"title": "Asesoría en Restauración",
+					"url": "/es-es/research",
 					"svg": ""
 				},
 				{
-					"title": "Our Principles",
-					"url": "/principles",
+					"title": "Nuestros Principios",
+					"url": "/es-es/principles",
 					"svg": ""
 				}
 			]
 		},
 		{
-			"title": "Users",
+			"title": "Usarios",
 			"url": "",
 			"btns": [{
 				"text": "Open Platform",
 				"url": "https://www1.plant-for-the-planet.org"
 			}],
 			"items": [{
-					"title": "Donate Trees",
+					"title": "Donar Árboles",
 					"url": "https://www1.plant-for-the-planet.org",
 					"svg": ""
 				},
 				{
-					"title": "Gift Trees",
+					"title": "Regala Arboles",
 					"url": "https://www1.plant-for-the-planet.org",
 					"svg": ""
 				},
 				{
-					"title": "Redeem / Check Tree Status",
-					"url": "/status",
+					"title": "Ver Mi Árbol",
+					"url": "/es-es/status",
 					"svg": ""
 				},
 				{
-					"title": "Start my Campaign",
-					"url": "/start-my-campaign",
+					"title": "Iniciar Campaña",
+					"url": "/es-es/start-my-campaign",
 					"svg": ""
 				},
 				{
-					"title": "Embed Tree Counter Widgets",
-					"url": "/widgets",
+					"title": "Incorporar el Widget",
+					"url": "/es-es/widgets",
 					"svg": ""
 				}
 			]
@@ -71,17 +71,17 @@
 			"url": "",
 			"items": [{
 					"title": "Partner Dashboard",
-					"url": "https://www.plant-for-the-planet.org/partners/login",
+					"url": "",
 					"svg": ""
 				},
 				{
 					"title": "PlanetCash",
-					"url": "/planetcash",
+					"url": "/es-es/planetcash",
 					"svg": ""
 				},
 				{
 					"title": "MyForest",
-					"url": "/myforest",
+					"url": "/es-es/myforest",
 					"svg": ""
 				}
 			]

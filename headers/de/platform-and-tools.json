@@ -1,73 +1,73 @@
 {
-	"title": "Fund, manage and monitor restoration",
+	"title": "Renaturierung finanzieren, verwalten und überwachen",
 	"url": "",
 	"img": "/wp-content/uploads/2022/03/Plant-for-the-Planet-Webapp.png",
 	"items": [{
-			"title": "Restoration Orgs",
+			"title": "Renaturierung Orgs",
 			"url": "",
 			"items": [{
-					"title": "Guide for Restoration Orgs",
-					"url": "/restoration-organizations",
+					"title": "Schritte für Renaturierungs Orgs",
+					"url": "/de/restoration-organizations",
 					"svg": ""
 				},
 				{
 					"title": "TreeMapper",
-					"url": "/treemapper",
+					"url": "/de/treemapper",
 					"svg": ""
 				},
 				{
-					"title": "Restoration Standards",
-					"url": "/standards",
+					"title": "Renaturierungs Standards",
+					"url": "/de/standards",
 					"svg": ""
 				},
 				{
-					"title": "Restoration Advice",
-					"url": "/research",
+					"title": "Renaturierungs Beratung",
+					"url": "/de/research",
 					"svg": ""
 				},
 				{
-					"title": "Our Principles",
-					"url": "/principles",
+					"title": "Unsere Prinzipien",
+					"url": "/de/principles",
 					"svg": ""
 				}
 			]
 		},
 		{
-			"title": "Users",
+			"title": "Benutzer",
 			"url": "",
 			"btns": [{
-				"text": "Open Platform",
+				"text": "Plattform Öffnen",
 				"url": "https://www1.plant-for-the-planet.org"
 			}],
 			"items": [{
-					"title": "Donate Trees",
+					"title": "Bäume Spenden",
 					"url": "https://www1.plant-for-the-planet.org",
 					"svg": ""
 				},
 				{
-					"title": "Gift Trees",
+					"title": "Bäume Schenken",
 					"url": "https://www1.plant-for-the-planet.org",
 					"svg": ""
 				},
 				{
-					"title": "Redeem / Check Tree Status",
-					"url": "/status",
+					"title": "Baumstatus Überprüfen/Einlösen",
+					"url": "/de/status",
 					"svg": ""
 				},
 				{
-					"title": "Start my Campaign",
-					"url": "/start-my-campaign",
+					"title": "Kampagne Starten",
+					"url": "/de/start-my-campaign",
 					"svg": ""
 				},
 				{
-					"title": "Embed Tree Counter Widgets",
-					"url": "/widgets",
+					"title": "Baumzähler-Widgets Einbetten",
+					"url": "/de/widgets",
 					"svg": ""
 				}
 			]
 		},
 		{
-			"title": "Companies & Institutions",
+			"title": "Unternehmen & Institutionen",
 			"url": "",
 			"items": [{
 					"title": "Partner Dashboard",
@@ -76,12 +76,12 @@
 				},
 				{
 					"title": "PlanetCash",
-					"url": "/planetcash",
+					"url": "/de/planetcash",
 					"svg": ""
 				},
 				{
 					"title": "MyForest",
-					"url": "/myforest",
+					"url": "/de/myforest",
 					"svg": ""
 				}
 			]
