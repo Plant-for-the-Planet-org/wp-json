@@ -1,43 +1,33 @@
 {
 	"title": "Fund, manage and monitor restoration",
 	"url": "",
-	"img": "",
+	"img": "/wp-content/uploads/2022/03/Plant-for-the-Planet-Webapp.png",
 	"items": [{
 			"title": "Restoration Orgs",
 			"url": "",
 			"items": [{
 					"title": "Guide for Restoration Orgs",
-					"url": "",
+					"url": "/restoration-organizations",
 					"svg": ""
 				},
 				{
 					"title": "TreeMapper",
-					"url": "",
-					"svg": ""
-				},
-				{
-					"title": "SeedManager",
-					"url": "",
-					"svg": ""
-				},
-				{
-					"title": "FireAlert",
-					"url": "",
+					"url": "/treemapper",
 					"svg": ""
 				},
 				{
 					"title": "Restoration Standards",
-					"url": "",
+					"url": "/standards",
 					"svg": ""
 				},
 				{
 					"title": "Restoration Advice",
-					"url": "",
+					"url": "/research",
 					"svg": ""
 				},
 				{
 					"title": "Our Principles",
-					"url": "",
+					"url": "/principles",
 					"svg": ""
 				}
 			]
@@ -45,34 +35,33 @@
 		{
 			"title": "Users",
 			"url": "",
+			"btns": [{
+				"text": "Open Platform",
+				"url": "https://www1.plant-for-the-planet.org"
+			}],
 			"items": [{
 					"title": "Donate Trees",
-					"url": "",
+					"url": "https://www1.plant-for-the-planet.org",
 					"svg": ""
 				},
 				{
 					"title": "Gift Trees",
-					"url": "",
+					"url": "https://www1.plant-for-the-planet.org",
 					"svg": ""
 				},
 				{
 					"title": "Redeem / Check Tree Status",
-					"url": "",
+					"url": "/status",
 					"svg": ""
 				},
 				{
-					"title": "Create Donation Links",
-					"url": "",
+					"title": "Start my Campaign",
+					"url": "/start-my-campaign",
 					"svg": ""
 				},
 				{
 					"title": "Embed Tree Counter Widgets",
-					"url": "",
-					"svg": ""
-				},
-				{
-					"title": "Open Platform",
-					"url": "",
+					"url": "/widgets",
 					"svg": ""
 				}
 			]
@@ -87,12 +76,12 @@
 				},
 				{
 					"title": "PlanetCash",
-					"url": "",
+					"url": "/planetcash",
 					"svg": ""
 				},
 				{
 					"title": "MyForest",
-					"url": "",
+					"url": "/myforest",
 					"svg": ""
 				}
 			]
