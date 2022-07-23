@@ -1,0 +1,309 @@
+[
+    {
+        "title": "Sobre nosotros",
+        "items": [{
+                "title": "Contacte con",
+                "url": "/es/contact",
+                "svg": ""
+            },
+            {
+                "title": "Sobre nosotros",
+                "url": "/",
+                "svg": ""
+            },
+            {
+                "title": "Informes anuales",
+                "url": "/es/annual-reports",
+                "svg": ""
+            },
+            {
+                "title": "Blog",
+                "url": "https://blog.plant-for-the-planet.org/es",
+                "svg": ""
+            },
+            {
+                "title": "Portrait",
+                "url": "/es/portrait",
+                "svg": ""
+            },
+            {
+                "title": "Pulse",
+                "url": "/es/ress",
+                "svg": ""
+            },
+            {
+                "title": "Equipo",
+                "url": "/es/team",
+                "svg": ""
+            },
+            {
+                "title": "Puestos de trabajo",
+                "url": "/careers",
+                "svg": ""
+            },
+            {
+                "title": "FAQ",
+                "url": "/faq",
+                "svg": ""
+            }
+    
+        ]
+    },
+    {
+		"title": "Niños y Jóvenes",
+		"items": [{
+				"title": "Academias",
+				"url": "/es/academies",
+				"svg": ""
+			},
+			{
+				"title": "Ideas y herramientas",
+				"url": "/es/ideas-and-tools",
+				"svg": ""
+			},
+			{
+				"title": "Global Board",
+				"url": "https://blog.plant-for-the-planet.org/2021/get-to-know-the-global-board-2021-2022",
+				"svg": ""
+			},
+			{
+				"title": "Conferencias para niños",
+				"url": "/es/children-youth",
+				"svg": ""
+			},
+			{
+				"title": "Youth Summit",
+				"url": "/es/youthsummit",
+				"svg": ""
+			},
+			{
+				"title": "Youth Summit Talks",
+				"url": "/es/youth-summit-talks",
+				"svg": ""
+			},
+			{
+				"title": "Tree Talks",
+				"url": "/es/tree-talks",
+				"svg": ""
+			}
+	
+		]
+	},
+	{
+		"title": "Herramientas de restauración",
+		"items": [
+     {
+			"title": "Asesoría en Restauración",
+			"url": "/es/advice",
+			"svg": ""
+		},
+    {
+				"title": "Plataforma",
+				"url": "https://www1.plant-for-the-planet.org",
+				"svg": ""
+			},
+			{
+				"title": "TreeMapper",
+				"url": "/es/treemapper",
+				"svg": ""
+			},
+			{
+				"title": "Donar",
+				"url": "https://donate.plant-for-the-planet.org/?to=proj_bFH0BU0Qw02RuetpQlLOMVYX&locale=es",
+				"svg": ""
+			},
+			{
+				"title": "PlanetCash API",
+				"url": "/es/planetcash",
+				"svg": ""
+			},
+			{
+				"title": "Casos de uso",
+				"url": "/es",
+				"svg": ""
+			},
+			{
+				"title": "Principios",
+				"url": "/es/principles",
+				"svg": ""
+			},
+			{
+				"title": "Organizaciones de Restauración",
+				"url": "/es/restoration-organizations",
+				"svg": ""
+			},
+			{
+				"title": "Standards",
+				"url": "/es/standards",
+				"svg": ""
+			},
+			{
+				"title": "Verificación",
+				"url": "/es/project-verification",
+				"svg": ""
+			}
+		]
+	},  
+	{
+		"title": "Restauración",
+		"items": [{
+				"title": "Restauración de Yucatán",
+				"url": "/es/yucatan",
+				"svg": ""
+			},
+			{
+				"title": "Informes de Yucatán",
+				"url": "/es/yucatan-reports",
+				"svg": ""
+			},
+			{
+				"title": "Reforestación de Andalucía",
+				"url": "/es/andalucia",
+				"svg": ""
+			},
+			{
+				"title": "Reforestación del Valle de los Volcanes",
+				"url": "/es/volcano-valley",
+				"svg": ""
+			},
+			{
+				"title": "Plant-for-Ghana",
+				"url": "/es/ghana",
+				"svg": ""
+			},
+			{
+				"title": "Plant-for-Ethiopia",
+				"url": "/es/ethiopia",
+				"svg": ""
+			}
+	
+		]
+	},  
+	{
+		"title": "Otros",
+		"items": [
+     {
+			"title": "TreeGame",
+			"url": "https://treegame.io",
+			"svg": ""
+		},
+    {
+				"title": "Tienda",
+				"url": "https://thegoodshop.org/",
+				"svg": ""
+			},
+			{
+				"title": "Privacidad",
+				"url": "/es/privacy-terms",
+				"svg": ""
+			},
+			{
+				"title": "Terms",
+				"url": "/es/terms-and-conditions",
+				"svg": ""
+			},
+			{
+				"title": "Aviso legal",
+				"url": "/imprint",
+				"svg": ""
+			},
+			{
+				"title": "Sign In",
+				"url": "https://www1.plant-for-the-planet.org/login",
+				"svg": ""
+			},
+			{
+				"title": "Denunciar el fraude",
+				"url": "/es/project-verification#report-fraud",
+				"svg": ""
+			}
+	
+		]
+	},
+	{
+		"title": "Asóciese con nosotros",
+		"items": [{
+				"title": "Neutralidad climática",
+				"url": "/es/partners/#climate-neutrality",
+				"svg": ""
+			},
+			{
+				"title": "Mi Bosque",
+				"url": "/es/partners/#my-forest",
+				"svg": ""
+			},
+			{
+				"title": "Eventos Sostenibles",
+				"url": "/es/sustainable-events",
+				"svg": ""
+			},
+			{
+				"title": "Productos con árboles",
+				"url": "/es/partners#product-with-trees",
+				"svg": ""
+			}
+	
+		]
+	}, 
+	  {
+		"title": "Apóyenos",
+		"items": [{
+				"title": "Donar",
+				"url": "https://donate.plant-for-the-planet.org/?to=proj_bFH0BU0Qw02RuetpQlLOMVYX&locale=es",
+				"svg": ""
+			},
+			{
+				"title": "Membresía",
+				"url": "https://donate.plant-for-the-planet.org/?to=proj_LOxkf5GYI054Fi0HcEUF3dKu",
+				"svg": ""
+			},
+			{
+				"title": "Árboles de regalo",
+				"url": "https://www1.plant-for-the-planet.org",
+				"svg": ""
+			}
+		,
+			{
+				"title": "Cuentas bancarias",
+				"url": "/es/bank-accounts",
+				"svg": ""
+			}
+	
+		]
+	}, 
+	{
+		"title": "Otros proyectos",
+		"items": [{
+				"title": "Trillones de árboles",
+				"url": "/es/trillion-trees",
+				"svg": ""
+			},
+			{
+				"title": "Cambiar el chocolate",
+				"url": "/es/change-chocolate",
+				"svg": ""
+			},
+			{
+				"title": "Investigación",
+				"url": "/es/research",
+				"svg": ""
+			}
+	
+		]
+	},
+	{
+		"title": "Country Orgs",
+		"items": [{
+				"title": "España",
+				"url": "/spain",
+				"svg": ""
+			},
+			{
+				"title": "República Checa",
+				"url": "/cz",
+				"svg": ""
+			}
+	
+		]
+	}
+	]
